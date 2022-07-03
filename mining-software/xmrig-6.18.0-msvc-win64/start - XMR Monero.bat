@@ -1,0 +1,1 @@
+xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u 42nE2yXMorVLQu7bHdacCUjTnaarg17Jo9aAgJtk3xkzDtA2jFaGBpb4a1XsLmxfZLVCsN14Ssv6Ldy1HbEB66P1QiXkgD4.MyLaptop -p x pause 
